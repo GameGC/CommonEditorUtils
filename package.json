@@ -7,6 +7,6 @@
     "name": "GameGC"
   },
   "dependencies": {
-    "com.gamegc.collections": "https://github.com/GameGC/GameGC.Collections.git"
+    "com.gamegc.collections": "https://github.com/GameGC/GameGC.Collections.git#1.0.0"
   }
 }
